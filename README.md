@@ -2,7 +2,7 @@ Olá! Eu sou o Victor Munhoz
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Munhoz&show_icons=true&hide=contribs,prs&theme=transparent)
 
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Munhoz&layout=compact&langs_count=7&theme=transparent" alt="Linguagens mais usadas"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Munhoz&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
